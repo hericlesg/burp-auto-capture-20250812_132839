@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250812_132855", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_132855/request_001.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_132855/response_001.txt", 
+      "timestamp": 1755016123919
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_132855/request_002.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_132855/response_002.txt", 
+      "timestamp": 1755016132775
+    }
+  ], 
+  "host": "px.ads.linkedin.com", 
+  "total_requests": 2
+}
