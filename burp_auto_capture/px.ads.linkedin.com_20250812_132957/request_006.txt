@@ -1,0 +1,18 @@
+POST /wa/ HTTP/2
+Host: px.ads.linkedin.com
+Cookie: li_sugr=b405fbf7-1525-4ba8-8512-983a2defebcf; bcookie="v=2&0191b8b4-8e92-451e-8590-761e0b439756"; lidc="b=OGST04:s=O:r=O:a=O:p=O:g=3588:u=1:x=1:i=1755016021:t=1755102421:v=2:sig=AQEyYZcvzJeiJkRsbDNwo7hPexE4tdo5"; UserMatchHistory=AQJj3Rm1QWNHKAAAAZib5k86ftouSSiws6X0edq2cja0cBb_6qA74U7MGm8BF-UYje4tBa1NK_4tAA; AnalyticsSyncHistory=AQJz11l8RbhGhwAAAZib5k865yznHBZbG8QF0SQhVR5aJXUyhb9jRqEdsqZTD7HoxLcePhLvGPe0nh_edXuNFw
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: *
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Referer: https://app.sejaefi.com.br/
+Content-Length: 2524
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+{"pids":[5044609],"scriptVersion":243,"time":1755016195876,"domain":"app.sejaefi.com.br","url":"https://app.sejaefi.com.br/pix/fazer-pix","pageTitle":"EfÃ­","websiteSignalRequestId":"edb69433-f191-b402-0404-6522bd922fe2","isTranslated":false,"liFatId":"","liGiant":"","misc":{"psbState":-4},"isLinkedInApp":false,"hem":null,"signalType":"CLICK","href":"","domAttributes":{"elementSemanticType":null,"elementValue":null,"elementType":null,"tagName":"BUTTON","backgroundImageSrc":null,"imageSrc":null,"imageAlt":null,"innerText":"Chave \n Pix","elementTitle":"Chave \n Pix","cursor":"pointer"},"innerElements":null,"elementCrumbsTree":[{"tagName":"div","nthChild":1,"id":"app","attributes":{"data-v-app":""}},{"tagName":"div","nthChild":0,"id":"app","attributes":{"data-app":""}},{"tagName":"div","nthChild":0,"classes":["layout"],"attributes":{"data-v-965d6dbe":"","data-gtm-iscorporation":"true","data-gtm-modality":"corporation"}},{"tagName":"div","nthChild":1,"classes":["main-content"],"attributes":{"data-v-965d6dbe":""}},{"tagName":"div","nthChild":0,"classes":["container-ul","d-flex","py-4"],"attributes":{"data-v-965d6dbe":""}},{"tagName":"div","nthChild":1,"classes":["ms-7","w-100"],"attributes":{"data-v-965d6dbe":""}},{"tagName":"div","nthChild":0,"attributes":{"data-v-d6cfc80b":"","data-v-a000465c":"","data-v-965d6dbe":""}},{"tagName":"div","nthChild":0,"attributes":{"data-v-d6cfc80b":""}},{"tagName":"div","nthChild":2,"classes":["gap-7","mt-5","the-content"],"attributes":{"data-v-d6cfc80b":""}},{"tagName":"section","nthChild":0,"classes":["position-relative","w-100"],"attributes":{"data-v-d6cfc80b":""}},{"tagName":"div","nthChild":1,"classes":["g-card","rounded-2","w-100"],"attributes":{"data-v-88c559e8":"","data-v-a000465c":"","data-test-id":"GCard"}},{"tagName":"div","nthChild":0,"classes":["g-card-body","p-4"],"attributes":{"data-v-88c559e8":"","data-test-id":"GCardBody"}},{"tagName":"div","nthChild":0,"classes":["d-flex","flex-column","gap-7","justify-content-center","mx-auto","selection-container","w-small"],"attributes":{"data-v-a000465c":""}},{"tagName":"div","nthChild":1,"classes":["row","selection-options"],"attributes":{"data-v-a000465c":""}},{"tagName":"div","nthChild":0,"classes":["col-6","selection-option"],"attributes":{"data-v-a000465c":""}},{"tagName":"button","nthChild":0,"classes":["btn-card","d-flex","flex-column","h-100","px-5","py-5","rounded-2","w-100"],"attributes":{"data-v-f26241d9":"","data-v-a000465c":"","data-test-id":"GCardBtn"}}],"isFilteredByClient":false}
