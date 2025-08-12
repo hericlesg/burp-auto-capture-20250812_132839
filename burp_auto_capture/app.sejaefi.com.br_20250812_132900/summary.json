@@ -1,0 +1,47 @@
+{
+  "capture_timestamp": "20250812_132900", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250812_132900/request_001.txt", 
+      "url": "https://app.sejaefi.com.br:443/bff/auth/login?authorization_code=1bd7a11c5c960bff7c77a8e306b11afc13dc7366&state=0vzbpwcoiza7b7cu9zna9b&redirect_to=https://app.sejaefi.com.br/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250812_132900/response_001.txt", 
+      "timestamp": 1755016128383
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250812_132900/request_002.txt", 
+      "url": "https://app.sejaefi.com.br:443/", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250812_132900/response_002.txt", 
+      "timestamp": 1755016128564
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250812_132900/request_003.txt", 
+      "url": "https://app.sejaefi.com.br:443/bff/profile", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250812_132900/response_003.txt", 
+      "timestamp": 1755016130216
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250812_132900/request_004.txt", 
+      "url": "https://app.sejaefi.com.br:443/bff/today", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250812_132900/response_004.txt", 
+      "timestamp": 1755016130216
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/app.sejaefi.com.br_20250812_132900/request_005.txt", 
+      "url": "https://app.sejaefi.com.br:443/bff/user-permissions", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/app.sejaefi.com.br_20250812_132900/response_005.txt", 
+      "timestamp": 1755016130662
+    }
+  ], 
+  "host": "app.sejaefi.com.br", 
+  "total_requests": 5
+}
