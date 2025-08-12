@@ -1,0 +1,20 @@
+HTTP/2 304 Not Modified
+Date: Tue, 12 Aug 2025 16:28:47 GMT
+Cf-Ray: 96e1590a9dfbe017-GIG
+Set-Cookie: AWSALB=pu2ms5YSiEHAqeRVlA9TNFt0EuyTOTlt32I/MCPDn2CW9EL8rXgNgrKBstpJCh5q+fEaW69J0mTb/I4zx7dh+ooz53InDDri1YQuVxviUmftGZsDiTkw2svHvAYk6J2kkVyUxMDQWYMMYME0mn2F8suazhfG/OrUfAihimsAwHMkSq+TtCMTwk5Kvp9SQw==; Expires=Tue, 19 Aug 2025 16:28:47 GMT; Path=/
+Set-Cookie: AWSALBCORS=pu2ms5YSiEHAqeRVlA9TNFt0EuyTOTlt32I/MCPDn2CW9EL8rXgNgrKBstpJCh5q+fEaW69J0mTb/I4zx7dh+ooz53InDDri1YQuVxviUmftGZsDiTkw2svHvAYk6J2kkVyUxMDQWYMMYME0mn2F8suazhfG/OrUfAihimsAwHMkSq+TtCMTwk5Kvp9SQw==; Expires=Tue, 19 Aug 2025 16:28:47 GMT; Path=/; SameSite=None; Secure
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://gerennet.my.site.com https://googleads.g.doubleclick.net https://*.google.com https://www.gstatic.com https://snap.licdn.com https://websdk.appsflyer.com https://*.clarity.ms https://*.amplitude.com https://*.sejaefi.com.br; img-src 'self' blob: data: https://pe85007.s3.sa-east-1.amazonaws.com https://gerencianet-pub-prod-1.s3.us-east-1.amazonaws.com https://gerencianet-pub-prod-1.s3.amazonaws.com https://*.google.com https://*.google.com.br https://px.ads.linkedin.com https://www.googletagmanager.com https://*.sejaefi.com.br https://*.clarity.ms; font-src 'self' data: https://fonts.gstatic.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://gerennet.my.site.com; connect-src 'self' blob: data: https://*.google.com https://google.com https://gerennet.my.salesforce-scrt.com https://px.ads.linkedin.com https://stats.g.doubleclick.net https://*.amplitude.com https://*.clarity.ms https://*.appsflyer.com https://*.sejaefi.com.br; frame-src https://*.google.com https://td.doubleclick.net https://gerennet.my.site.com https://www.googletagmanager.com https://www.youtube.com; frame-ancestors 'self' https://www.google.com/;
+Strict-Transport-Security: max-age=15768000; includeSubDomains; preload
+Last-Modified: Mon, 11 Aug 2025 12:01:10 GMT
+Etag: "2b3-63c15adebdeac"
+Accept-Ranges: bytes
+Vary: User-Agent
+Cf-Cache-Status: DYNAMIC
+Server-Timing: cfCacheStatus;desc="DYNAMIC"
+Server-Timing: cfOrigin;dur=109,cfEdge;dur=26
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400
+
