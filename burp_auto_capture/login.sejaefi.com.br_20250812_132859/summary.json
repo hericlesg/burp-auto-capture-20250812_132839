@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250812_132859", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/login.sejaefi.com.br_20250812_132859/request_001.txt", 
+      "url": "https://login.sejaefi.com.br:443/oauth/authorize?redirect_to=https://app.sejaefi.com.br/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/login.sejaefi.com.br_20250812_132859/response_001.txt", 
+      "timestamp": 1755016127737
+    }
+  ], 
+  "host": "login.sejaefi.com.br", 
+  "total_requests": 1
+}
