@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250812_132850", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/px.ads.linkedin.com_20250812_132850/request_001.txt", 
+      "url": "https://px.ads.linkedin.com:443/wa/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/px.ads.linkedin.com_20250812_132850/response_001.txt", 
+      "timestamp": 1755016123919
+    }
+  ], 
+  "host": "px.ads.linkedin.com", 
+  "total_requests": 1
+}
