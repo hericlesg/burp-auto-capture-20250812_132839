@@ -1,0 +1,18 @@
+POST /wa/ HTTP/2
+Host: px.ads.linkedin.com
+Cookie: li_sugr=b405fbf7-1525-4ba8-8512-983a2defebcf; bcookie="v=2&0191b8b4-8e92-451e-8590-761e0b439756"; lidc="b=OGST04:s=O:r=O:a=O:p=O:g=3588:u=1:x=1:i=1755016021:t=1755102421:v=2:sig=AQEyYZcvzJeiJkRsbDNwo7hPexE4tdo5"; UserMatchHistory=AQJj3Rm1QWNHKAAAAZib5k86ftouSSiws6X0edq2cja0cBb_6qA74U7MGm8BF-UYje4tBa1NK_4tAA; AnalyticsSyncHistory=AQJz11l8RbhGhwAAAZib5k865yznHBZbG8QF0SQhVR5aJXUyhb9jRqEdsqZTD7HoxLcePhLvGPe0nh_edXuNFw
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+Accept: *
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Referer: https://app.sejaefi.com.br/
+Content-Length: 341
+Origin: https://app.sejaefi.com.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+{"pids":[5044609],"scriptVersion":243,"time":1755016131925,"domain":"app.sejaefi.com.br","url":"https://app.sejaefi.com.br/home","pageTitle":"EfÃ­","websiteSignalRequestId":"e7e64ad9-5cf9-eb61-c16a-f4b43c12a239","isTranslated":false,"liFatId":"","liGiant":"","misc":{"psbState":-4},"isLinkedInApp":false,"hem":null,"signalType":"PAGE_VISIT"}
